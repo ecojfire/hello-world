@@ -1,2 +1,3 @@
 # hello-world
 This repository is the start of a new journey into the tech world. This journey starts with such topics as AWS...
+I am a first responder looking to find my way back home, a world in which knowledge is more important than sheer strength. I'm hoping to find my way back to my family before it is to late. 
